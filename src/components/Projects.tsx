@@ -24,7 +24,7 @@ const projects: Project[] = [
     title: "SoulLift",
     description: "A mental well-being mobile app featuring a chatbot, personalized avatar, daily motivation, and voice/emotion recognition.",
     image: "https://plus.unsplash.com/premium_photo-1669560674802-dc9c382137de?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8bWVudGFsJTIwaGVhbHRoJTIwYXBwfGVufDB8fDB8fHww",
-    video: "/public/videos/soul.mp4", 
+    video: "/videos/soul.mp4", 
     hasVideo: true,
     technologies: ["Flutter", "Node.js", "MongoDB", "Express.js", "Python"],
     demoLink: "#",
