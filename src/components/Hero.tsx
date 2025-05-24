@@ -37,7 +37,12 @@ const Hero = () => {
               asChild
             >
               {/* add pdf resume */}
-              <a href="/Mohamed Adem Torkhani resume.pdf" download="resume.pdf" className="flex items-center"> 
+              <a 
+              href="/Mohamed Adem Torkhan Resume.pdf" 
+              download="Mohamed Adem Torkhan Resume.pdf"
+              className="text-gray-300 hover:text-purple transition-colors"
+              aria-label="Download Resume"
+            >
                 <Download className="mr-2 h-4 w-4" />
                 Download Resume
               </a>

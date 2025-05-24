@@ -78,8 +78,8 @@ const Navbar = () => {
             </a>
          
             <a 
-              href="/resume.pdf" 
-              download="resume.pdf"
+              href="/Mohamed Adem Torkhan Resume.pdf" 
+              download="Mohamed Adem Torkhan Resume.pdf"
               className="text-gray-300 hover:text-purple transition-colors"
               aria-label="Download Resume"
             >

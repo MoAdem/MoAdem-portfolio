@@ -57,7 +57,9 @@ const About = () => {
                   className="bg-purple hover:bg-purple-dark text-white px-6 py-2 purple-glow transition-all duration-300 hover:shadow-lg hover:shadow-purple/50"
                   asChild
                 >
-                  <a href="/resume.pdf" download="resume.pdf" className="flex items-center">
+                  
+                  <a  href="/Mohamed Adem Torkhan Resume.pdf" 
+                  download="Mohamed Adem Torkhan Resume.pdf" className="flex items-center">
                     <Download className="mr-2 h-4 w-4" />
                     Download Resume
                   </a>
