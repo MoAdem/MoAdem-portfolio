@@ -50,20 +50,26 @@ const Testimonials = () => {
 
   const testimonials = [
     {
-      quote: "One of the most dedicated developers I've worked with. Their ability to solve complex problems is remarkable.",
-      author: "Jane Doe",
-      position: "Senior Engineering Manager"
+      quote: "I couldn’t be happier with the website he built for me. As a small business owner, having a professional and easy-to-use platform to showcase and sell my products made a huge difference. He understood exactly what I needed, offered smart solutions, and delivered everything on time. My sales have already improved thanks to the online store. Highly recommend!",
+      author: "Amira Trabelsi",
+      position: "Client"
     },
     {
-      quote: "Their work on our mobile application exceeded all expectations. They have a unique talent for creating intuitive user experiences.",
-      author: "John Smith",
-      position: "Product Owner"
+      quote: "Adem is an exceptional teammate. His competence and brilliant intellect shine through in every task. Beyond that, his amiable nature makes working with him not just productive but also thoroughly enjoyable.",
+      author: "Oussama Bourigua",
+      position: "Mobile Developer"
     },
     {
-      quote: "A true professional who delivers high-quality work consistently. Their technical expertise and communication skills make them a valuable asset to any team.",
-      author: "Alex Johnson",
-      position: "Tech Lead"
-    }
+      quote: "An exceptional Android Developer, Adem shines with his expertise in coding with Kotlin and Java, his knack for using Android Jetpack tools to build reliable apps, and his skill in making apps run smoothly by managing memory and threads effectively.",
+      author: "Moez Ben Hassen",
+      position: "Web Developer"
+    },
+    {
+      quote: "A standout engineer, Adem demonstrates unique critical thinking and amazing prowess at problem-solving. His ability to approach challenges with a thoughtful and inventive mindset sets him apart.",
+      author: "Ahmed Chennaoui",
+      position: "Backend Engineer"
+    },
+
   ];
   
   return (

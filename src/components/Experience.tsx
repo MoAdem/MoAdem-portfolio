@@ -16,29 +16,38 @@ interface Experience {
 const experiences: Experience[] = [
   {
     id: 1,
-    role: "Frontend Developer Intern",
-    company: "Tech Solutions Inc.",
-    period: "Jun 2023 - Sep 2023",
+    role: "Full Stack Developer Intern",
+    company: "Farness",
+    period: "February 2025 - Present",
     description: [
-      "Developed responsive user interfaces using React and Tailwind CSS.",
-      "Collaborated with design team to implement pixel-perfect designs.",
-      "Optimized application performance, reducing load times by 40%.",
+      "Developed and maintained the company’s full stack platform using modern web technologies.",
+      "Designed and optimized database schemas to ensure performance, scalability, and data integrity.",
+      "Collaborated with AI and embedded software teams to integrate backend systems with machine learning models and hardware components.",
       "Participated in code reviews and contributed to team's development standards."
     ],
-    technologies: ["React", "JavaScript", "Tailwind CSS", "Git", "Figma"]
+    technologies: [ "React", "Next.js"," Node.js", "PostgreSQL", "Auth0", "Git"," REST APIs", "Azure", "WebSockets", "Docker"]
   },
   {
     id: 2,
-    role: "Mobile App Developer Intern",
-    company: "MobileFirst Apps",
-    period: "Jan 2023 - Apr 2023",
+    role: "Full Stack Developer Intern",
+    company: "IPACT Consult inc",
+    period: "June 2024 - September 2024",
     description: [
-      "Built cross-platform mobile applications using React Native.",
-      "Implemented state management using Redux and context API.",
-      "Integrated third-party APIs and libraries for enhanced functionality.",
-      "Created reusable component library to improve development efficiency."
+      "Built a comprehensive mobile application to streamline restaurant and franchise operations, enabling real-time management of menus, staff, and orders.",
+      "Improved operational efficiency by digitizing key workflows, reducing manual processes, and enhancing day-to-day organization for restaurant managers.",
     ],
-    technologies: ["React Native", "TypeScript", "Redux", "RESTful APIs", "Jest"]
+    technologies: ["React Native"," Node.js", "MongoDB", "Git"]
+  },
+    {
+    id: 3,
+    role: "Front-end Developer Intern",
+    company: "CleverTech",
+    period: "February 2022 – July 2022",
+    description: [
+      "Engineered responsive and user-friendly front-end components for a cloud-based file storage platform, enabling seamless file upload, synchronization, and cross-device sharing.",
+      "Improved platform usability and performance by implementing intuitive UI components, refining workflows, and optimizing front-end architecture based on user feedback and usage patterns.",
+    ],
+    technologies: ["React"," Node.js", "MongoDB", "Git"]
   }
 ];
 

@@ -24,7 +24,7 @@ const blogPosts = [
   {
     id: 2,
     title: 'Modern JavaScript Frameworks Compared',
-    excerpt: 'An in-depth look at React, Vue, and Angular - which one should you choose for your next project?',
+    excerpt: 'An in-depth look at React, Next, and Angular - which one should you choose for your next project?',
     date: 'May 10, 2025',
     category: 'Frontend',
     readTime: '8 min read',

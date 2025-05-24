@@ -21,12 +21,12 @@ const techCategories: TechCategory[] = [
   {
     name: "Frontend",
     icon: <Code className="h-10 w-10 text-purple" />,
-    technologies: ["React", "Angular", "Vue.js", "HTML5", "CSS3", "JavaScript", "TypeScript", "Tailwind CSS", "SASS"]
+    technologies: ["React", "Next.js", "HTML5", "CSS3", "JavaScript", "TypeScript", "Tailwind CSS", "SASS"]
   },
   {
     name: "Backend",
     icon: <Server className="h-10 w-10 text-purple" />,
-    technologies: ["Node.js", "Express", "Django", "Flask", "PHP", "Java", "Spring Boot"]
+    technologies: ["Node.js", "Express", "Django", "PHP", "Java", "Spring Boot"]
   },
   {
     name: "Mobile",
@@ -36,12 +36,12 @@ const techCategories: TechCategory[] = [
   {
     name: "Database",
     icon: <Database className="h-10 w-10 text-purple" />,
-    technologies: ["MongoDB", "MySQL", "PostgreSQL", "Firebase", "Redis", "GraphQL"]
+    technologies: ["PostgreSQL","MongoDB", "MySQL", "Firebase"]
   },
   {
     name: "DevOps",
     icon: <Github className="h-10 w-10 text-purple" />,
-    technologies: ["Git", "GitHub", "Docker", "CI/CD", "AWS", "Netlify", "Vercel", "Heroku"]
+    technologies: ["Git", "GitHub", "Docker", "Azure"]
   },
   {
     name: "Other",
